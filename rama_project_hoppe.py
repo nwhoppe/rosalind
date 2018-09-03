@@ -6,11 +6,8 @@
 # created: 8/30/18
 
 import argparse
-
 import collections
-
 import sys
-
 import math
 
 
